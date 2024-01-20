@@ -1,2 +1,0 @@
-# .github
-Organisations info repo!
