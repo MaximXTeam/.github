@@ -7,5 +7,5 @@
 
 *Serving telegram with our awesome bots and projects.*
 
-[![Channel](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MaximXSticker)ㅤ[![Bots](https://img.shields.io/badge/Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/LineStickerxBot)
+[![Channel](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MaximXBots)ㅤ[![Bots](https://img.shields.io/badge/Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MaximXBots/28)
 <br><br><br><br>
